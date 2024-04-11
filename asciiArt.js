@@ -15,4 +15,5 @@ if (inputString) {
     });
 } else {
     console.log('Please provide a string to convert into ASCII art.');
+    
 }
